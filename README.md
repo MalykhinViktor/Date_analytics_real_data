@@ -1,70 +1,74 @@
- <h3 align="center">Проект: "Маркетинговый аналитик авторынка Казахстана "</h3>
+ <h3 align="center">Проект: "Проект: Анализ взаимодействия и активности пользователей в каналах Slack "</h3>
 
 
-Добро пожаловать в репозиторий проекта, целью которого является проведение комплексного анализа рынка продаж автомобилей в Казахстане
+Добро пожаловать в репозиторий нашего проекта, направленного на проведение всестороннего анализа взаимодействия и активности пользователей в каналах Slack. Наша цель - выявить информацию, способствующую улучшению участия в сообществе, предоставлению ценного контента и развитию осмысленных взаимодействий между участниками.
 
-**Описание проекта:**
-1. **Предобработка данных:**
+**Обзор проекта:**
 
-- Приведение названий колонок к стилю snake_case.
-- Замена типа данных в колонке year_of_release.
-- Анализ дубликатов и обработка пропущенных значений.
-- Изучение категориальных значений.
-- Обработка данных и создание метрик:
+1. **Загрузка и предварительная подготовка данных:**
 
-2.**Группировка данных по регионам продаж.**
-- Создание классификаций автомобилей по ценовым диапазонам.
-- Расчет столбца скидок на автомобили.
-- Группировка марок автомобилей по регионам.
-- Анализ данных:
+- Удаление дублирующего столбца 'Unnamed: 0'.
+- Изменение типов данных на datetime64 для столбцов ts, thread_ts, latest_reply и file_date.
+- Анализ дубликатов и категориальных значений.
 
-3.**Исследование сегментов автомобилей с выявлением закономерностей.**
-- Анализ скидок на автомобили для определения влияния на продажи.
-- Исследование времени продаж по месяцам для выявления сезонных паттернов.
-- Анализ стран производителей и правообладателей брендов.
-- Оценка влияния различных факторов (car_wheel_drive, transmission, client_type) на продажи.
-- Анализ автомобильных дилеров Казахстана.
-- Исследование финансовых показателей для оценки состояния.
+2. **Обработка данных и создание метрик:**
 
- 4.**Выводы и рекомендации:**
+- Создание столбцов для времени суток, дня недели, месяца и года.
+- Создание классификационных столбцов на основе длины текста и количества слов.
+- Выделение информации о каналах, специальностях и номерах групп в отдельные столбцы.
+- Создание столбцов для оценок пользователей, их классификации и идентификации пользователей.
 
-- Краткое подведение итогов проведенного анализа.
-- Формулирование ключевых выводов и выводов по каждому разделу.
-- Предоставление рекомендаций для маркетинговых стратегий и принятия решений.
+3. **Анализ данных:**
+
+- Анализ объема сообщений в зависимости от времени суток, дня недели и месяца года.
+- Исследование количества сообщений пользователей по специальностям и каналам.
+- Анализ когорт пользователей и их активности.
+- Анализ количества сообщений в зависимости от длины сообщений.
+- Анализ оценок пользователей в зависимости от специальностей, каналов и длины сообщений.
+
+- Исследование пользователей, активно комментирующих сообщения других пользователей.
+
+4. **Выводы и рекомендации:**
+
+- Обобщение ключевых результатов анализа.
+- Формулирование практических рекомендаций для каждого раздела.
 
 🏠  <a href="https://github.com/MalykhinViktor/Date_analytics_real_data">Назад к проектам!</a>
 :office:  <a href="https://github.com/MalykhinViktor" target="_blank">Назад к профилю!</a>
 
-<h3 align="center">Project: Analysis of the Car Sales Market in Kazakhstan"</h3>
+<h3 align="center">Project: Analysis of User Engagement and Interactions in Slack Channels</h3>
+
+
+Welcome to the repository of our project focused on conducting an in-depth analysis of user engagement and interactions within Slack channels. Our project aims to uncover insights that can enhance community engagement, provide valuable content, and foster meaningful interactions among users.
 
 **Project Overview:**
 
-1. **Data Preprocessing:**
+1. **Data Loading and Preparation:**
 
-- Renaming column names to snake_case style.
-- Changing data type in the year_of_release column.
-- Analyzing duplicates and handling missing values.
-- Exploring categorical values.
-- Data Processing and Metric Creation:
+- Removing the duplicate column 'Unnamed: 0'.
+- Changing data types to datetime64 for columns ts, thread_ts, latest_reply, and file_date.
+- Analyzing duplicates and categorical values.
 
-2. **Grouping data by sales regions.**
+2. **Data Processing and Metric Creation:**
 
-- Creating classifications of cars based on price ranges.
-- Calculating discount column for cars.
-- Grouping car brands by regions.
+- Creating columns for time of day, day of the week, month, and year.
+- Creating classification columns based on text length and word count.
+- Extracting channels, specialties, and group numbers into separate columns.
+- Creating columns for user ratings, classification of ratings, and user IDs.
+
 3. **Data Analysis:**
-- Investigating car segments to identify patterns.
-- Analyzing discounts on cars to determine their impact on sales.
-- Studying sales timing by months to uncover seasonal patterns.
-- Analyzing countries of car manufacturers and brand owners.
-- Evaluating the impact of various factors (car_wheel_drive, transmission, client_type) on sales.
-- Analyzing car dealerships in Kazakhstan.
-- Exploring financial indicators to assess the industry's state.
-- Conclusions and Recommendations:
 
-4. **Summarizing the conducted analysis.**
-- Formulating key takeaways and conclusions for each section.
-- Providing recommendations for marketing strategies and decision-making.
+- Analyzing message volume based on time of day, day of the week, and month of the year.
+- Exploring user message count by specialty and channel.
+- Investigating user cohorts and their activity.
+- Analyzing message count based on message length.
+- Analyzing user ratings based on specialty, channel, and message length.
+- Exploring users actively engaging with others' posts.
+
+4. **Conclusions and Recommendations:**
+
+- Summarizing key findings from the analysis.
+- Formulating actionable insights for each section.
 
 
 🏠  <a href="https://github.com/MalykhinViktor/Date_analytics_real_data">Go back to projects</a>
