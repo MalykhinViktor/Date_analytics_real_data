@@ -13,7 +13,7 @@
 
 <h1>
  Hello to everyone who decided to look at my data analytics repository.
-  <img src="https://giphy.com/embed/l378c04F2fjeZ7vH2" width="50px"/>
+  <img src="https://media.giphy.com/media/MPxg9U887PS0B8XT4J/giphy.gif" width="50px"/>
 </h1>
 
 <h2>
