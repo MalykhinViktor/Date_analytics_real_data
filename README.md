@@ -31,7 +31,8 @@
 
 ### I am glad to present to you my real data analytics projects:
 
-  -  	💬  <a href="https://github.com/MalykhinViktor/Date_analytics_real_data/blob/Slack_messenger">Yandex Music</a>
+  -  	💬 <a href="https://github.com/MalykhinViktor/Date_analytics_real_data/blob/Slack_messenger">Yandex Music</a>
+  -  	💬 <a href="https://github.com/MalykhinViktor/Date_analytics_real_data/tree/Kazakhstan_car_market">Kazakhstan car market</a>
   -  🚗  <a href="https://github.com/MalykhinViktor/Date_analytics_real_data/tree/Kazakhstan_car_market">Kazakhstan car market</a>
   
     
