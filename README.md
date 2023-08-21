@@ -36,7 +36,9 @@
 :office:  <a href="https://github.com/MalykhinViktor" target="_blank">Назад к профилю!</a>
 
 <h3 align="center">Project: Analysis of the Car Sales Market in Kazakhstan"</h3>
+
 **Project Overview:**
+
 1. **Data Preprocessing:**
 
 - Renaming column names to snake_case style.
