@@ -36,6 +36,7 @@
    3. Дата последнего обновления
    4. Ссылка на проект <a href="https://datalens.yandex/vydib8d1hkrgk"> Просмотр дашборда Bolid.Team</a>
 Сентябрь 2023
+
 🏠  <a href="https://github.com/MalykhinViktor/Date_analytics_real_data">Назад к проектам!</a>
 :office:  <a href="https://github.com/MalykhinViktor" target="_blank">Назад к профилю!</a>
 
