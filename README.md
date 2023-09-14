@@ -1,6 +1,10 @@
 <h3 align="center">Проект:  "Дашборд по продажам для Bolid.Team" </h3>
-
-**Просмотр дашборда**  <a href="https://datalens.yandex/vydib8d1hkrgk"> Просмотр дашборда Bolid.Team</a>
+<h1>
+ Hello to everyone who decided to look at my real data analytics repository.
+   <a href="https://datalens.yandex/vydib8d1hkrgk"> Просмотр дашборда Bolid.Team</a>
+  <img src="https://media.giphy.com/media/VHI6svvhu5xuqzyAoM/giphy.gif" width="50px"/>
+</h1>
+ 
 1. **Описание**
 Этот проект разработан для компании Bolid.Team и представляет собой дашборд для анализа продаж аттракционов и развлечений. Проект использует исторические данные с сайта Platformaofd.ru за период с 2022 года по август 2023 года. Дашборд разработан с использованием Yandex.DataLens и предоставляет информацию на разных уровнях детализации, включая города, объекты, группы аттракционов и аттракционы.
 
