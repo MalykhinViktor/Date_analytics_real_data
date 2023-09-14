@@ -1,6 +1,6 @@
 <h3 align="center">Проект:  "Дашборд по продажам для Bolid.Team" </h3>
 <h1>
- Hello to everyone who decided to look at my real data analytics repository.
+ Всем привет, Предлагаю вам ознакомиться с дашбордом перейдя по ссылке.
    <a href="https://datalens.yandex/vydib8d1hkrgk"> Просмотр дашборда Bolid.Team</a>
   <img src="https://media.giphy.com/media/VHI6svvhu5xuqzyAoM/giphy.gif" width="50px"/>
 </h1>
@@ -39,5 +39,5 @@
 🏠  <a href="https://github.com/MalykhinViktor/Date_analytics_real_data">Назад к проектам!</a>
 :office:  <a href="https://github.com/MalykhinViktor" target="_blank">Назад к профилю!</a>
 
-<h3 align="center">Project: Analysis of User Engagement and Interactions in Slack Channels</h3>
+
 
