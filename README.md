@@ -1,6 +1,6 @@
 <h3 align="center">Проект:  "Дашборд по продажам для Bolid.Team" </h3>
 <h1>
- Всем привет,  <img src="https://media.giphy.com/media/MPxg9U887PS0B8XT4J/giphy.gif" width="50px"/> Предлагаю вам ознакомиться с дашбордом перейдя по ссылке.
+ Всем привет, Предлагаю вам ознакомиться с дашбордом перейдя по ссылке.
    <a href="https://datalens.yandex/vydib8d1hkrgk"> Просмотр дашборда Bolid.Team</a>
   <img src="https://media.giphy.com/media/VHI6svvhu5xuqzyAoM/giphy.gif" width="50px"/>
 </h1>
