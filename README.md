@@ -1,41 +1,116 @@
   </a>
 </div>
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/9pwNdVm3HFPa14bkwW/giphy.gif" width="100"/>
-
-</div>
-
-  </a>
-</div>
-<img src="https://komarev.com/ghpvc/?username=MalykhinViktor&style=flat-square&color=blue" alt=""/>
+<h3 align="center">Проект: "Анализ трансляций НМИЦ"</h3>
 
 
-<h1>
- Hello to everyone who decided to look at my real data analytics repository.
-  <img src="https://media.giphy.com/media/MPxg9U887PS0B8XT4J/giphy.gif" width="50px"/>
-</h1>
+Добро пожаловать в репозиторий проекта, целью которого является проведение комплексного анализа Анализ трансляций НМИЦ
 
-<h2>
-  My name is Viktor Malykhin
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-   
-</h2>
-<a href="https://www.linkedin.com/in/виктор-малыхин-76a066279/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a> 
-<div align="center">
-  <img src="https://media.giphy.com/media/l378c04F2fjeZ7vH2/giphy.gif" width="600" height="300"/>
-</div> 
+# Проект "Анализ данных о пользователях мероприятий"
+
+## Задачи проекта
+
+1. Загрузка данных и их подготовка к анализу.
+   - Приведение названий колонок к snake_case.
+   - Изучение пропусков в данных.
+   - Преобразование типов данных в датах и времени.
+
+2. Предобработка данных.
+   - Приведение названий колонок в нескольких наборах данных.
+   - Обработка категориальных данных.
+   - Объединение данных из разных источников.
+
+3. Обработка данных и подготовка дополнительных метрик.
+   - Уменьшение размеров датафрейма.
+   - Создание новых столбцов, отражающих время суток, день недели, месяц и год.
+   - Создание дополнительных столбцов для анализа профессий и специализаций.
+
+4. Анализ данных.
+   - Построение матрицы корреляций.
+   - Предварительный анализ данных с использованием инструмента ydata_profiling.
+   - Исследование средних значений и стандартных отклонений.
+   - Исследование графиков для выявления паттернов.
+
+5. Анализ пользователей.
+   - Выявление характеристик пользователей, таких как профессия, специализация и устройства.
+
+6. Анализ дикторов.
+   - Оценка популярности дикторов и среднего времени просмотра их лекций.
+
+7. Выводы.
+   - Собранные данные и результаты анализа.
+
+8. Схема новой базы данных.
+   - План по созданию новой базы данных на основе полученных данных.
+
+9. Построение dashboard.
+   - Создание интерактивного инструмента для визуализации данных.
+
+## Используемые инструменты
+
+- Python
+- Pandas
+- Matplotlib
+- ydata_profiling
+- Другие библиотеки для анализа данных
+
+## Авторы
+
+- Виктор Малыхин 
 
 
+🏠  <a href="https://github.com/MalykhinViktor/Date_analytics_real_data">Назад к проектам!</a>
+:office:  <a href="https://github.com/MalykhinViktor" target="_blank">Назад к профилю!</a>
 
-### I am glad to present to you my real data analytics projects:
-
-  -  🚗  <a href="https://github.com/MalykhinViktor/Date_analytics_real_data/tree/Kazakhstan_car_market">Kazakhstan car market</a>
-  - 💬 <a href="https://github.com/MalykhinViktor/Date_analytics_real_data/blob/Slack_messenger">Messenger Slack</a>
-   - 🍭 <a href="https://github.com/MalykhinViktor/Date_analytics_real_data/blob/Bolid.Team/README.md"> Bolid Team(Datalens by Yandex)</a>  
-**- :mailbox:How to reach me: (vic.malykhin@yandex.ru)** <img src="https://media.giphy.com/media/Y01wot3Bt9Bpdz8xvs/giphy.gif" width="60px"/>
+<h3 align="center">Project "Analysis of Event Attendees Data""</h3>
 
 
+## Project Objectives
+1. Data Loading and Preparation for Analysis.
+
+- Converting column names to snake_case.
+- Handling missing data.
+- Data type conversion for dates and times.
+- Data Preprocessing.
+
+2. Standardizing column names across different datasets.
+- Categorical data processing.
+- Data integration from various sources.
+- Data Processing and Additional Metrics Preparation.
+
+3. Reducing the size of the dataset.
+- Creating new columns to represent time of day, day of the week, month, and year.
+- Generating additional columns for profession and specialization analysis.
+## Data Analysis.
+
+4. Constructing a correlation matrix.
+- Preliminary data analysis using the ydata_profiling tool.
+- Exploring means and standard deviations.
+- Exploring data patterns through visualizations.
+5. User Analysis.
+
+- Identifying user characteristics, such as profession, specialization, and devices used.
+6. Speaker Analysis.
+
+- Assessing speaker popularity and the average viewing time of their lectures.
+  7. Conclusions.
+
+- Summarizing the collected data and analysis results.
+8. New Database Schema.
+
+- Planning the creation of a new database based on the obtained data.
+9. Dashboard Creation.
+
+10. Developing an interactive tool for data visualization.
+- Tools Used
+- Python
+- Pandas
+- Matplotlib
+- ydata_profiling
+- Other data analysis libraries
+11. Authors
+Viktor Malykhin
+
+
+🏠  <a href="https://github.com/MalykhinViktor/Date_analytics_real_data">Go back to projects</a>
 :office:  <a href="https://github.com/MalykhinViktor" target="_blank"> Go back to the main profile!</a>
