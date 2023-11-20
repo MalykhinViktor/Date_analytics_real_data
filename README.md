@@ -1,43 +1,42 @@
-  </a>
-</div>
-
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/9pwNdVm3HFPa14bkwW/giphy.gif" width="100"/>
-
-</div>
-
-  </a>
-</div>
-<img src="https://komarev.com/ghpvc/?username=MalykhinViktor&style=flat-square&color=blue" alt=""/>
+<h3 align="center">Проект: "Разработка дашборда для компании Domino Home & Horeca "</h3>
 
 
-<h1>
- Hello to everyone who decided to look at my real data analytics repository.
-  <img src="https://media.giphy.com/media/MPxg9U887PS0B8XT4J/giphy.gif" width="50px"/>
+<a href="https://lookerstudio.google.com/reporting/ff9828c4-6372-42c0-b6f6-e089580f3797/page/p_rejageegbd"> Просмотр дашборда  Domino Home & Horeca </a>
+
+
+**Цель проекта**
+1. Основная цель — создать эффективный инструмент для владельца компании, позволяющий ему легко ориентироваться в сложных бизнес-сценариях. Панель мониторинга позволит принимать решения на основе данных и обеспечит быстрый обзор важнейших аспектов бизнеса.
+2. Необходимо разработать дашборд в Looker Studio, содержащий следующие визуализации:
+  - Динамика выручки по месяцам
+  - Распределение выручки по магазинам
+  - Распределение выручки по группам товара
+  - Динамика прихода и расхода денежных средств по месяцам
+
+3.    <a href="https://lookerstudio.google.com/reporting/ff9828c4-6372-42c0-b6f6-e089580f3797/page/p_rejageegbd"> Просмотр дашборда  Domino Home & Horeca </a>
+  <img src="https://media.giphy.com/media/VHI6svvhu5xuqzyAoM/giphy.gif" width="50px"/>
 </h1>
 
-<h2>
-  My name is Viktor Malykhin
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-   
-</h2>
-<a href="https://www.linkedin.com/in/виктор-малыхин-76a066279/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a> 
-<div align="center">
-  <img src="https://media.giphy.com/media/l378c04F2fjeZ7vH2/giphy.gif" width="600" height="300"/>
-</div> 
+
+<h3 align="center">Project: "Development of Dashboard for Domino Home & Horeca Company"</h3>
+
+**Project Goal**
+1. The primary goal is to create an effective tool for the company owner, enabling easy navigation through complex business scenarios. The monitoring dashboard will facilitate data-driven decision-making and provide a quick overview of crucial business aspects.
+2. Develop a dashboard in Looker Studio featuring the following visualizations:
+   - Revenue Dynamics by Months
+   - Revenue Distribution by Stores
+   - Revenue Distribution by Product Groups
+   - Dynamics of Income and Expenditure of Cash Flow by Months
+3. [View Domino Home & Horeca Dashboard](https://lookerstudio.google.com/reporting/ff9828c4-6372-42c0-b6f6-e089580f3797/page/p_rejageegbd)
+   <img src="https://media.giphy.com/media/VHI6svvhu5xuqzyAoM/giphy.gif" width="50px"/>
+</h1>
 
 
 
-### I am glad to present to you my real data analytics projects:
-
-  -  🚗  <a href="https://github.com/MalykhinViktor/Date_analytics_real_data/tree/Kazakhstan_car_market">Kazakhstan car market</a>
-  - 💬 <a href="https://github.com/MalykhinViktor/Date_analytics_real_data/blob/Slack_messenger">Messenger Slack</a>
-   - 🍭 <a href="https://github.com/MalykhinViktor/Date_analytics_real_data/blob/Bolid.Team/README.md"> Bolid Team(Datalens by Yandex)</a>
-  -  💻 <a href="https://github.com/MalykhinViktor/Date_analytics_real_data/tree/broadcast_nmic"> Analysis of NMIC broadcasts</a>
-
-**- :mailbox:How to reach me: (vic.malykhin@yandex.ru)** <img src="https://media.giphy.com/media/Y01wot3Bt9Bpdz8xvs/giphy.gif" width="60px"/>
+🏠  <a href="https://github.com/MalykhinViktor/Date_analytics_real_data">Назад к проектам!</a>
+:office:  <a href="https://github.com/MalykhinViktor" target="_blank">Назад к профилю!</a>
 
 
+
+
+🏠  <a href="https://github.com/MalykhinViktor/Date_analytics_real_data">Go back to projects</a>
 :office:  <a href="https://github.com/MalykhinViktor" target="_blank"> Go back to the main profile!</a>
