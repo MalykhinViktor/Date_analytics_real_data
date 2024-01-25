@@ -1,44 +1,71 @@
   </a>
 </div>
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/9pwNdVm3HFPa14bkwW/giphy.gif" width="100"/>
-
-</div>
-
-  </a>
-</div>
-<img src="https://komarev.com/ghpvc/?username=MalykhinViktor&style=flat-square&color=blue" alt=""/>
+<h3 align="center">Проект: "Donor search"</h3>
 
 
-<h1>
- Hello to everyone who decided to look at my real data analytics repository.
-  <img src="https://media.giphy.com/media/MPxg9U887PS0B8XT4J/giphy.gif" width="50px"/>
-</h1>
+Добро пожаловать в репозиторий проекта, целью которого является проведение комплексного анализа активностей доноров проекта Donor search 
+# Проект  "Donor search"
 
-<h2>
-  My name is Viktor Malykhin
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-   
-</h2>
-<a href="https://www.linkedin.com/in/виктор-малыхин-76a066279/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a> 
-<div align="center">
-  <img src="https://media.giphy.com/media/l378c04F2fjeZ7vH2/giphy.gif" width="600" height="300"/>
-</div> 
+## Задачи проекта
+
+1. Загрузка данных и их подготовка к анализу.
+   - Приведение названий колонок к snake_case.
+   - Изучение пропусков в данных.
+   - Преобразование типов данных в датах и времени.
+   - Устанение пропусков. 
+
+2. Предобработка данных.
+   - Приведение названий колонок в нескольких наборах данных.
+   - Обработка категориальных данных.
+   - Объединение данных из разных источников.
+
+3. Обработка данных и подготовка дополнительных метрик.
+   - Уменьшение размеров датафрейма.
+   - Создание новых столбцов, отражающих время суток, день недели, месяц и год.
+   - Создание дополнительных столбцов для анализа профессий и специализаций.
+
+4. Анализ данных.
+   - Построение матрицы корреляций.
+   - Предварительный анализ данных с использованием инструмента ydata_profiling.
+   - Исследование средних значений и стандартных отклонений.
+   - Исследование графиков для выявления паттернов.
+
+5. Анализ пользователей.
+   - Выявление характеристик пользователей. 
+
+6. Анализ клиник.
+   - Оценка популярности клиник .
+
+7. Создание презинтации. 
 
 
 
-### I am glad to present to you my real data analytics projects:
 
-  -  🚗  <a href="https://github.com/MalykhinViktor/Date_analytics_real_data/tree/Kazakhstan_car_market">Kazakhstan car market</a>
-  - 💬 <a href="https://github.com/MalykhinViktor/Date_analytics_real_data/blob/Slack_messenger">Messenger Slack</a>
-   - 🍭 <a href="https://github.com/MalykhinViktor/Date_analytics_real_data/blob/Bolid.Team/README.md"> Bolid Team(Datalens by Yandex)</a>
-  -  💻 <a href="https://github.com/MalykhinViktor/Date_analytics_real_data/tree/broadcast_nmic"> Analysis of NMIC broadcasts</a>
-  -  📕 <a href="https://github.com/MalykhinViktor/Date_analytics_real_data/blob/Cloud_report/README.md"> Сloud reports</a>
+## Используемые инструменты
 
-**- :mailbox:How to reach me: (vic.malykhin@yandex.ru)** <img src="https://media.giphy.com/media/Y01wot3Bt9Bpdz8xvs/giphy.gif" width="60px"/>
+- Python
+- Pandas
+- Matplotlib
+- ydata_profiling
+- Другие библиотеки для анализа данных
+
+## Авторы
+
+- Виктор Малыхин
+- Наталья Дохина
+- Екатерина Задирей
+- Павел Шубин
+- Елена Матякина
+- Алина Рунаева
 
 
-:office:  <a href="https://github.com/MalykhinViktor" target="_blank"> Go back to the main profile!</a>
+
+
+🏠  <a href="https://github.com/MalykhinViktor/Date_analytics_real_data">Назад к проектам!</a>
+:office:  <a href="https://github.com/MalykhinViktor" target="_blank">Назад к профилю!</a>
+
+<h3 align="center">Project "Analysis of Event Attendees Data""</h3>
+
+
+
