@@ -37,7 +37,7 @@
    - 🍭 <a href="https://github.com/MalykhinViktor/Date_analytics_real_data/blob/Bolid.Team/README.md"> Bolid Team(Datalens by Yandex)</a>
   -  💻 <a href="https://github.com/MalykhinViktor/Date_analytics_real_data/tree/broadcast_nmic"> Analysis of NMIC broadcasts</a>
   -  📕 <a href="https://github.com/MalykhinViktor/Date_analytics_real_data/blob/Cloud_report/README.md"> Сloud reports</a>
-  -  ♥️ <a href=" https://github.com/MalykhinViktor/Date_analytics_real_data/blob/Donor_Search/README.md"> Donor Search</a>
+  -  ♥️  <a href="https://github.com/MalykhinViktor/Date_analytics_real_data/blob/Donor_Search/README.md"> Donor Search</a>
 
  
 
