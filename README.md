@@ -38,7 +38,7 @@
   -  💻 <a href="https://github.com/MalykhinViktor/Date_analytics_real_data/tree/broadcast_nmic"> Analysis of NMIC broadcasts</a>
   -  📕 <a href="https://github.com/MalykhinViktor/Date_analytics_real_data/blob/Cloud_report/README.md"> Сloud reports</a>
   -  ♥️  <a href="https://github.com/MalykhinViktor/Date_analytics_real_data/blob/Donor_Search/README.md"> Donor Search</a>
-   -  ♥️  <a href="https://github.com/MalykhinViktor/Date_analytics_real_data/blob/conquer_cancer/README.md"> Сonquer_cancer </a>
+   -  💪  <a href="https://github.com/MalykhinViktor/Date_analytics_real_data/blob/conquer_cancer/README.md"> Сonquer_cancer </a>
  
 
 **- :mailbox:How to reach me: (vic.malykhin@yandex.ru)** <img src="https://media.giphy.com/media/Y01wot3Bt9Bpdz8xvs/giphy.gif" width="60px"/>
