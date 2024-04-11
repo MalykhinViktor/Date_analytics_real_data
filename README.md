@@ -58,6 +58,8 @@
 <a href="https://lookerstudio.google.com/reporting/ccecfff9-53b8-4d73-a536-55ff3f3554f4"> Просмотр дашборда  фонда Рак Победим </a>
 
 
+
+
 🏠  <a href="https://github.com/MalykhinViktor/Date_analytics_real_data">Назад к проектам!</a>
 :office:  <a href="https://github.com/MalykhinViktor" target="_blank">Назад к профилю!</a>
 
@@ -66,8 +68,5 @@
 
 🏠  <a href="https://github.com/MalykhinViktor/Date_analytics_real_data">Go back to projects</a>
 :office:  <a href="https://github.com/MalykhinViktor" target="_blank"> Go back to the main profile!</a>
-
-
-
 
 
