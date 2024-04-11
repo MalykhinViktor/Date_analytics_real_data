@@ -1,50 +1,76 @@
-  </a>
-</div>
-
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/9pwNdVm3HFPa14bkwW/giphy.gif" width="100"/>
-
-</div>
-
-  </a>
-</div>
-<img src="https://komarev.com/ghpvc/?username=MalykhinViktor&style=flat-square&color=blue" alt=""/>
+<h3 align="center">Проект: "Анализа данных о ДТП"</h3>
 
 
-<h1>
- Hello to everyone who decided to look at my real data analytics repository.
-  <img src="https://media.giphy.com/media/MPxg9U887PS0B8XT4J/giphy.gif" width="50px"/>
-</h1>
+<a href="https://lookerstudio.google.com/reporting/ff762db2-ab9d-4404-a8ea-419722d1eb7a"> Просмотр дашборда </a>
 
-<h2>
-  My name is Viktor Malykhin
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-   
-</h2>
-<a href="https://www.linkedin.com/in/виктор-малыхин-76a066279/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a> 
-<div align="center">
-  <img src="https://media.giphy.com/media/l378c04F2fjeZ7vH2/giphy.gif" width="600" height="300"/>
-</div> 
+## Проект "Аналитика ДТП"
+
+Проект направлен на проведение глубокого анализа данных о дорожно-транспортных происшествиях (ДТП), сформулирование и проверку гипотез, а также создание дашборда для визуализации результатов анализа.
+
+### Задачи проекта:
+
+1. **Исследовательский анализ данных о ДТП:**
+   - Проведение предобработки данных.
+   - Проведение исследовательского анализа данных (EDA).
+   - Визуализация данных.
+   - Оценка корреляции между признаками.
+   - Формулировка и проверка гипотез.
+
+2. **Построение дашборда:**
+   - Создание дашборда для визуализации ключевых результатов анализа.
+
+### Сформулированные гипотезы (или мифы) о ДТП:
+
+1. "Всему виной пьяные водители, надо усилить наказание."
+2. "Безопасность на дорогах растет для каждого из участников."
+3. "В личном автомобиле ехать безопаснее, чем в автобусе."
+4. "Если пешеходы не будут нарушать, то не будут гибнуть."
+5. "Низкая скорость не влияет на тяжесть ДТП."
+
+### Этапы выполнения проекта:
+
+1. **Загрузка данных и предобработка:**
+   - Импорт необходимых библиотек.
+   - Скачивание данных в формате JSON.
+   - Чтение данных и предварительная обработка.
+
+2. **Изучение данных:**
+   - Поиск и изучение дубликатов.
+   - Подготовка данных к анализу.
+   - Распаковка столбцов с использованием JSON.
+   - Заполнение пропущенных значений.
+
+3. **Исследование столбцов:**
+   - Изучение каждого столбца на предмет интересующей информации.
+
+4. **Подготовка к анализу:**
+   - Создание дополнительных столбцов для удобства анализа.
+
+5. **Корреляция:**
+   - Оценка корреляции между признаками.
+
+6. **Анализ данных:**
+   - Формулирование и проверка гипотез о ДТП.
+
+7. **Выводы:**
+   - Формулирование основных выводов на основе результатов анализа данных.
+
+### Используемые инструменты:
+
+- Python
+- Библиотеки pandas, numpy, seaborn, geopandas, plotly, matplotlib
+
+
+<a href="https://lookerstudio.google.com/reporting/ff762db2-ab9d-4404-a8ea-419722d1eb7a"> Просмотр дашборда </a>
 
 
 
-### I am glad to present to you my real data analytics projects:
-
-  -  🚗  <a href="https://github.com/MalykhinViktor/Date_analytics_real_data/tree/Kazakhstan_car_market">Kazakhstan car market</a>
-  - 💬 <a href="https://github.com/MalykhinViktor/Date_analytics_real_data/blob/Slack_messenger">Messenger Slack</a>
-   - 🍭 <a href="https://github.com/MalykhinViktor/Date_analytics_real_data/blob/Bolid.Team/README.md"> Bolid Team(Datalens by Yandex)</a>
-  -  💻 <a href="https://github.com/MalykhinViktor/Date_analytics_real_data/tree/broadcast_nmic"> Analysis of NMIC broadcasts</a>
-  -  📕 <a href="https://github.com/MalykhinViktor/Date_analytics_real_data/blob/Cloud_report/README.md"> Сloud reports</a>
-  -  ♥️  <a href="https://github.com/MalykhinViktor/Date_analytics_real_data/blob/Donor_Search/README.md"> Donor Search</a>
-   -  💪  <a href="https://github.com/MalykhinViktor/Date_analytics_real_data/blob/conquer_cancer/README.md"> Сonquer_cancer </a>
- 
-
-**- :mailbox:How to reach me: (vic.malykhin@yandex.ru)** <img src="https://media.giphy.com/media/Y01wot3Bt9Bpdz8xvs/giphy.gif" width="60px"/>
+🏠  <a href="https://github.com/MalykhinViktor/Date_analytics_real_data">Назад к проектам!</a>
+:office:  <a href="https://github.com/MalykhinViktor" target="_blank">Назад к профилю!</a>
 
 
+
+
+🏠  <a href="https://github.com/MalykhinViktor/Date_analytics_real_data">Go back to projects</a>
 :office:  <a href="https://github.com/MalykhinViktor" target="_blank"> Go back to the main profile!</a>
-
-
 
