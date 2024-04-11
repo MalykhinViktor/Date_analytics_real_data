@@ -1,7 +1,7 @@
-<h3 align="center">Проект: "Анализа данных и разработки дашборда для фонда Рак Победим "</h3>
+<h3 align="center">Проект: "Анализ данных компании Gectaro"</h3>
 
 
-<a href="https://lookerstudio.google.com/reporting/ccecfff9-53b8-4d73-a536-55ff3f3554f4"> Просмотр презентации </a>
+<a href="https://drive.google.com/file/d/1IQtfyMmdSg1cHv28V963i8wAyWnlpI_M/view?usp=sharing"> Просмотр презентации </a>
 
 ## Проект "Анализ данных компании Gectaro"
 
@@ -27,7 +27,7 @@
 - sklearn
 - scipy
 
-<a href="https://lookerstudio.google.com/reporting/ccecfff9-53b8-4d73-a536-55ff3f3554f4"> Просмотр презентации </a>
+<a href="https://drive.google.com/file/d/1IQtfyMmdSg1cHv28V963i8wAyWnlpI_M/view?usp=sharing"> Просмотр презентации </a>
 
 
 
