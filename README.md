@@ -12,12 +12,12 @@
 
 
 <h1>
- Hello to everyone who decided to look at my real data analytics repository.
+Привет всем, кто решил заглянуть в мое реальное хранилище аналитики данных.
   <img src="https://media.giphy.com/media/MPxg9U887PS0B8XT4J/giphy.gif" width="50px"/>
 </h1>
 
 <h2>
-  My name is Viktor Malykhin
+ Меня завут Виктор Малыхин 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
    
 </h2>
@@ -30,7 +30,7 @@
 
 
 
-### I am glad to present to you my real data analytics projects:
+### Я рад представить вам свои реальные проекты по анализу данных:
   
   -  🏢   <a href="https://github.com/MalykhinViktor/Date_analytics_real_data/blob/Geсtaro/README.md">Анализ данных компании Gectaro</a>
   -  🚚  <a href="https://github.com/MalykhinViktor/Date_analytics_real_data/blob/DTP/README.md">Анализ данных о ДТП</a>
