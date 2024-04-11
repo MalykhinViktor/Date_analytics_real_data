@@ -59,6 +59,7 @@
 
 - Python
 - Библиотеки pandas, numpy, seaborn, geopandas, plotly, matplotlib
+- Looker studio
 
 
 <a href="https://lookerstudio.google.com/reporting/ff762db2-ab9d-4404-a8ea-419722d1eb7a"> Просмотр дашборда </a>
