@@ -1,50 +1,41 @@
-  </a>
-</div>
-
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/9pwNdVm3HFPa14bkwW/giphy.gif" width="100"/>
-
-</div>
-
-  </a>
-</div>
-<img src="https://komarev.com/ghpvc/?username=MalykhinViktor&style=flat-square&color=blue" alt=""/>
+<h3 align="center">Проект: "Анализа данных и разработки дашборда для фонда Рак Победим "</h3>
 
 
-<h1>
- Hello to everyone who decided to look at my real data analytics repository.
-  <img src="https://media.giphy.com/media/MPxg9U887PS0B8XT4J/giphy.gif" width="50px"/>
-</h1>
+<a href="https://lookerstudio.google.com/reporting/ccecfff9-53b8-4d73-a536-55ff3f3554f4"> Просмотр презентации </a>
 
-<h2>
-  My name is Viktor Malykhin
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-   
-</h2>
-<a href="https://www.linkedin.com/in/виктор-малыхин-76a066279/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a> 
-<div align="center">
-  <img src="https://media.giphy.com/media/l378c04F2fjeZ7vH2/giphy.gif" width="600" height="300"/>
-</div> 
+## Проект "Анализ данных компании Gectaro"
 
+Проект направлен на изучение и анализ данных компаний и их сотрудников с целью выявления ключевых признаков, влияющих на отток клиентов, а также разработки стратегий по их минимизации. 
 
+### Этапы проекта:
 
-### I am glad to present to you my real data analytics projects:
+1. **Загрузка данных и предобработка:** 
+   - Включает импорт необходимых библиотек, чтение данных и предварительную обработку для обеспечения их качества и подготовки к анализу.
 
-  -  🚗  <a href="https://github.com/MalykhinViktor/Date_analytics_real_data/tree/Kazakhstan_car_market">Kazakhstan car market</a>
-  - 💬 <a href="https://github.com/MalykhinViktor/Date_analytics_real_data/blob/Slack_messenger">Messenger Slack</a>
-   - 🍭 <a href="https://github.com/MalykhinViktor/Date_analytics_real_data/blob/Bolid.Team/README.md"> Bolid Team(Datalens by Yandex)</a>
-  -  💻 <a href="https://github.com/MalykhinViktor/Date_analytics_real_data/tree/broadcast_nmic"> Analysis of NMIC broadcasts</a>
-  -  📕 <a href="https://github.com/MalykhinViktor/Date_analytics_real_data/blob/Cloud_report/README.md"> Сloud reports</a>
-  -  ♥️  <a href="https://github.com/MalykhinViktor/Date_analytics_real_data/blob/Donor_Search/README.md"> Donor Search</a>
-   -  💪  <a href="https://github.com/MalykhinViktor/Date_analytics_real_data/blob/conquer_cancer/README.md"> Сonquer_cancer </a>
- 
+2. **Исследовательский анализ данных:** 
+   - Проведение анализа данных с целью выявления закономерностей, формулирования гипотез и проверки их на основе имеющихся признаков.
 
-**- :mailbox:How to reach me: (vic.malykhin@yandex.ru)** <img src="https://media.giphy.com/media/Y01wot3Bt9Bpdz8xvs/giphy.gif" width="60px"/>
+3. **Формулирование выводов и подготовка презентации:** 
+   - Составление основных выводов на основе результатов анализа и разработка презентации с представлением ключевых результатов и рекомендаций.
 
 
+## Используемые инструменты:
+- Python
+- Pandas
+- Matplotlib
+- ydata_profiling
+- sklearn
+- scipy
+
+<a href="https://lookerstudio.google.com/reporting/ccecfff9-53b8-4d73-a536-55ff3f3554f4"> Просмотр презентации </a>
+
+
+
+🏠  <a href="https://github.com/MalykhinViktor/Date_analytics_real_data">Назад к проектам!</a>
+:office:  <a href="https://github.com/MalykhinViktor" target="_blank">Назад к профилю!</a>
+
+
+
+
+🏠  <a href="https://github.com/MalykhinViktor/Date_analytics_real_data">Go back to projects</a>
 :office:  <a href="https://github.com/MalykhinViktor" target="_blank"> Go back to the main profile!</a>
-
-
-
