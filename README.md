@@ -27,7 +27,6 @@
 - sklearn
 - scipy
 
-<a href="https://drive.google.com/file/d/1IQtfyMmdSg1cHv28V963i8wAyWnlpI_M/view?usp=sharing"> Просмотр презентации </a>
 
 
 
