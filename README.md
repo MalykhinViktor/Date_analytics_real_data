@@ -32,7 +32,7 @@
 
 ### Я рад представить вам свои реальные проекты по анализу данных:
   
-  -  🏢   <a href="https://github.com/MalykhinViktor/Date_analytics_real_data/blob/Geсtaro/README.md">Анализ данных компании Gectaro</a>
+  -  🏢   <a href="https://github.com/MalykhinViktor/Date_analytics_real_data/blob/Geсtaro/README.md">Анализ данных компании GT</a>
   -  🚚  <a href="https://github.com/MalykhinViktor/Date_analytics_real_data/blob/DTP/README.md">Анализ данных о ДТП</a>
   -  🚗  <a href="https://github.com/MalykhinViktor/Date_analytics_real_data/tree/Kazakhstan_car_market">Kazakhstan car market</a>
   - 💬 <a href="https://github.com/MalykhinViktor/Date_analytics_real_data/blob/Slack_messenger">Messenger Slack</a>
